@@ -13,8 +13,8 @@ body {
 
 :root,
 [data-bs-theme="light"] {
-  --primary-color: #002570;
-  --secondary-color: #007eff;
+  --primary-color: #168e9f;
+  --secondary-color: #2f737d;
   --light: #fff;
   --dark: #000;
   --body-color: #97a9bf;
@@ -46,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #002570;
+  color: #2f737d;
   font-family: "Albert Sans";
   font-style: normal;
   margin-bottom: 0;
@@ -64,7 +64,7 @@ a {
 }
 
 a {
-  color: #002570;
+  color: #2f737d;
   text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ a:focus,
 a:hover {
   text-decoration: none;
   text-decoration: none;
-  color: #002570;
+  color: #2f737d;
 }
 
 .uppercase {
@@ -95,7 +95,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: #002570;
+  color: #2f737d;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -192,7 +192,7 @@ hr {
 }
 
 hr.style-2 {
-  border-bottom: 1px dashed #002570;
+  border-bottom: 1px dashed #2f737d;
 }
 
 hr.mp-0 {
@@ -246,12 +246,12 @@ ul {
 }
 
 ::placeholder {
-  color: #002570;
+  color: #2f737d;
   font-size: 15px;
 }
 
 ::-webkit-input-placeholder {
-  color: #002570;
+  color: #2f737d;
 }
 
 ::-moz-placeholder {

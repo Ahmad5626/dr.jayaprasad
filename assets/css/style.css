@@ -126,13 +126,13 @@ ul.nav_scroll {
   padding: 0px 15px;
   margin: 17px 2px;
   transition: 0.5s;
-  color: #002570;
+  color: #2f737d;
   font-weight: 500;
   font-family: "Albert Sans";
 }
 
 .mediic_menu > ul > li > a:hover {
-  color: #007eff;
+  color: #2f737d;
 }
 
 a.mdy-hover {
@@ -147,7 +147,7 @@ a.mdy-hover:before {
   width: 6px;
   height: 6px;
   border-radius: 3px;
-  background-color: #007eff;
+  background-color: #2f737d;
   opacity: 0;
   transition: 0.5s;
 }
@@ -169,7 +169,7 @@ a.mdy-hover:hover:before {
   padding: 14px 30px;
   font-weight: 500;
   color: #fff;
-  background: #002570;
+  background: #2f737d;
   text-transform: uppercase;
   border-radius: 30px;
   display: inline-block;
@@ -213,7 +213,7 @@ a.mdy-hover:hover:before {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
   transition: 0.5s;
   visibility: hidden;
-  border-top: 2px solid #007eff;
+  border-top: 2px solid #2f737d;
   opacity: 0;
 }
 
@@ -264,7 +264,7 @@ a.mdy-hover:hover:before {
 .mediic_menu ul .sub-menu .sub-menu li:hover > a,
 .mediic_menu ul .sub-menu .sub-menu .sub-menu li:hover > a,
 .mediic_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
-  background: #007eff;
+  background: #2f737d;
   color: #fff !important;
 }
 
@@ -606,7 +606,7 @@ a.mediic-btn:hover {
   width: 833px;
   height: 447px;
   border-radius: 40px;
-  background-color: #002570;
+  background-color: #2f737d;
   position: absolute;
   top: 0;
   left: 22px;
@@ -755,7 +755,7 @@ span.wood-animation img {
 /* Box-hover */
 
 .mediic-hover-btn {
-  background-color: #007eff;
+  background-color: #2f737d;
   height: 100%;
   top: 0;
   opacity: 0;
@@ -835,7 +835,7 @@ span.wood-animation img {
 
 .mediic-link i {
   font-size: 20px;
-  color: #007eff;
+  color: #2f737d;
   display: inline-block;
   transform: rotate(-45deg);
   transition: 0.5s;
@@ -847,7 +847,7 @@ span.wood-animation img {
 }
 
 .feature-content span {
-  color: #007eff;
+  color: #2f737d;
   font-size: 18px;
   font-weight: 500;
   display: inline-flex;
@@ -889,7 +889,7 @@ span.mddle-pd {
 
 .feature-single-box:hover .feature-btn a {
   background: #fff;
-  color: #007eff;
+  color: #2f737d;
 }
 
 /* Box-2 */
@@ -902,7 +902,7 @@ span.mddle-pd {
   padding: 11px 29px;
   font-size: 14px;
   font-weight: 500;
-  background: #007eff;
+  background: #2f737d;
   color: #fff;
   border-radius: 20px;
 }
@@ -938,7 +938,7 @@ span.mddle-pd {
 /* Box-hover */
 
 .mediic-hover-box {
-  background-color: #007eff;
+  background-color: #2f737d;
   height: 100%;
   top: 0;
   opacity: 0;
@@ -983,7 +983,7 @@ span.mddle-pd {
 }
 
 .feature-single-box:hover {
-  border: 2px solid #007eff;
+  border: 2px solid #2f737d;
 }
 
 /* Feature Box-2 */
@@ -1225,7 +1225,7 @@ p.counter-desc {
   line-height: 200px;
   text-align: center;
   border-radius: 30px;
-  background-color: #007eff;
+  background-color: #2f737d;
 }
 
 /* Abour Right Side */
@@ -1332,7 +1332,7 @@ span.list-pd {
   z-index: 1;
   transition: 0.5s;
   overflow: hidden;
-  border: 1px solid #007eff;
+  border: 1px solid #2f737d;
   background-color: #fff;
 }
 
@@ -1348,10 +1348,10 @@ span.list-pd {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #007eff;
-  background-image: url(../images/resource/mask-btn2.png);
+  background-color: #2f737d;
+  /* background-image: url(../images/resource/mask-btn2.png);
   -webkit-mask: url(../images/resource/mask-btn2.png);
-  mask: url(../images/resource/mask-btn2.png);
+  mask: url(../images/resource/mask-btn2.png); */
   -webkit-mask-size: 2300% 100%;
   mask-size: 2300% 100%;
   animation: mask_animation_2 0.7s steps(22) forwards;
@@ -1548,7 +1548,7 @@ span.list-pd {
   height: 70px;
   text-align: center;
   border-radius: 50px;
-  border: 2px solid #007eff;
+  border: 2px solid #2f737d;
   animation: zoomBig 3.25s linear infinite;
   -webkit-animation-delay: 0s;
   animation-delay: 0s;
@@ -1688,7 +1688,7 @@ span.list-pd {
 
 .mediic-top-section {
   padding: 110px 50px 0px 205px;
-  background: #002570;
+  background: #2f737d;
   position: relative;
 }
 
@@ -1719,7 +1719,7 @@ span.list-pd {
 
 .service-section {
   padding: 30px 50px 120px 210px;
-  background: #002570;
+  background: #2f737d;
 }
 
 .single-service-box {
@@ -1814,7 +1814,7 @@ span.list-pd {
   line-height: 60px;
   border-radius: 30px;
   text-align: center;
-  background-color: #007eff;
+  background-color: #2f737d;
   display: inline-block;
   font-size: 20px;
   position: absolute;
@@ -1989,7 +1989,7 @@ span.list-pd {
 
 .form-box input::placeholder {
   font-size: 17px;
-  color: #002570;
+  color: #2f737d;
 }
 
 .form-box input {
@@ -2022,7 +2022,7 @@ span.list-pd {
 }
 
 .form-box textarea::placeholder {
-  color: #002570;
+  color: #2f737d;
   font-size: 17px;
 }
 
@@ -2047,7 +2047,7 @@ button.submit-btn {
   z-index: 1;
   transition: 0.5s;
   overflow: hidden;
-  border: 1px solid #007eff;
+  border: 1px solid #2f737d;
   background-color: var(--primary-color);
 }
 
@@ -2063,9 +2063,9 @@ button.submit-btn:after {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #007eff;
-  background: url(../images/resource/mask-btn2.png);
-  mask: url(../images/resource/mask-btn2.png);
+  background-color: #2f737d;
+  /* background: url(../images/resource/mask-btn2.png);
+  mask: url(../images/resource/mask-btn2.png); */
   -webkit-mask-size: 2300% 100%;
   mask-size: 2300% 100%;
   animation: mask_animation_2 0.7s steps(22) forwards;
@@ -3871,7 +3871,7 @@ p.mdy-pd {
 }
 
 .accordion-content p {
-  color: #002570;
+  color: #2f737d;
   padding: 20px 0 32px;
 }
 
@@ -4321,7 +4321,7 @@ span.dwnlod-hvr i {
   height: 105px;
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0);
-  border: 3px solid #007eff;
+  border: 3px solid #2f737d;
   animation: zoomBig2 2.25s linear infinite;
   -webkit-animation-delay: 0s;
   animation-delay: 0s;
@@ -4506,7 +4506,7 @@ span.dwnlod-hvr i {
   line-height: 37px;
   text-align: center;
   border-radius: 20px;
-  background-color: #002570;
+  background-color: #2f737d;
   border: 2px solid #ffffff;
   color: #fff;
   position: absolute;
@@ -4673,7 +4673,7 @@ mediic Start Contact Inner Page
 
 .error-content h1 {
   font-size: 200px;
-  color: #002570;
+  color: #2f737d;
   font-weight: 700;
   font-family: "DM Sans";
   text-align: center;
@@ -4831,7 +4831,7 @@ mediic Start Contact Inner Page
   border: 1px solid rgba(0, 37, 112, 0.5);
   font-weight: 500;
   font-family: "DM Sans";
-  color: #002570;
+  color: #2f737d;
   font-size: 17px;
 }
 
@@ -5006,7 +5006,7 @@ ul.social-box li a:hover {
   height: 54px;
   line-height: 54px;
   text-align: center;
-  background-color: #007eff;
+  background-color: #2f737d;
   border-radius: 30px;
 }
 
@@ -5034,7 +5034,7 @@ ul.social-box li a:hover {
   height: 50px;
   line-height: 50px;
   background-color: rgba(215, 231, 251, 0);
-  border: 1px solid #002570;
+  border: 1px solid #2f737d;
 }
 
 .search-popup {
