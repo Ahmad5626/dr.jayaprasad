@@ -218,6 +218,7 @@
   var swiper = new Swiper(".mySwiper6", {
     effect: "cards",
     grabCursor: true,
+    loop: true,
     autoplay: {
       speed: 1500,
       delay: 2000,

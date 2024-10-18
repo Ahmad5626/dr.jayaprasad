@@ -48,7 +48,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 /*================================
 <--  mediic Nav Menu Area Css -->
 ==================================*/
-
+html{
+  scroll-behavior: smooth;
+}
 .mediic_nav_manu {
   transition: 0.5s;
   z-index: 2;
@@ -379,7 +381,7 @@ ul.sub-menu li:hover a span {
   margin: 0;
   font-weight: 800;
   position: relative;
-  z-index: -1;
+  z-index: 1;
 }
 
 h1.mediic-style {
@@ -569,7 +571,7 @@ a.mediic-btn:hover {
   position: absolute;
   left: 0;
   right: 0;
-  top: -40px;
+  top: -100px;
   z-index: -1;
 }
 
@@ -1371,7 +1373,7 @@ span.list-pd {
 }
 
 .mediic-btn a:hover {
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 @keyframes mask_animation {
@@ -1762,13 +1764,14 @@ span.list-pd {
   content: "";
   left: 0;
   bottom: 0;
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     0deg,
-    rgba(0, 125, 255, 0.9999999999999999) 0%,
-    rgba(0, 125, 255, 0.9999999999999999) 20%,
-    rgba(0, 125, 255, 0) 50%,
-    rgba(0, 125, 255, 0) 100%
-  );
+    rgb(11, 67, 61)
+    rgb(30, 94, 84) 20%,
+    rgba(42, 116, 122, 0) 50%,
+    rgba(77, 159, 194, 0) 100%
+  ); */
+  
   width: 100%;
   height: 0%;
   transition: 0.5s;
