@@ -1,7 +1,7 @@
 .mean-container .mean-bar {
   background: var(--primary-color);
-  float: left;
-  min-height: 60px;
+  /* float: left;
+  min-height: 60px; */
   padding: 4px 0 0;
   position: relative;
   width: 100%;
@@ -176,7 +176,7 @@
 .mean-container a.meanmenu-reveal:hover span {
   background: #fff;
 }
-.mean-container .mean-bar::before {
+/* .mean-container .mean-bar::before {
   color: #fff;
   content: "mediic";
   font-size: 28px;
@@ -184,4 +184,4 @@
   left: 10px;
   position: absolute;
   top: 18px;
-}
+} */

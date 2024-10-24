@@ -5514,7 +5514,7 @@ span.flaticon-multiply i {
   position: fixed;
   right: 20px;
   bottom: 20px;
-  
+  z-index: 99999;
 }
 .new-video div{
   width: 150px;
@@ -5525,3 +5525,23 @@ video{
   height: 100%;
   object-fit: cover;
 }
+.res-logo{
+width: 100px;
+
+}
+.mobile-menu{
+  display: block;
+}
+  .res-logo img{
+    width: 100%;
+   
+    object-fit: cover;
+  } 
+  @media(max-width: 767px){
+    .marquee-section{
+      display: none;
+    }
+    .new-video{
+      position: fixed;
+    display: none;}
+  }
