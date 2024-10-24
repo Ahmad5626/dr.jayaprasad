@@ -5499,3 +5499,29 @@ span.flaticon-multiply i {
   width: 100%;
   margin: 0px !important;
 }
+.robotic1{
+  width: 80px;
+  height: 80px;
+  margin-left: 55px;
+}
+.robotic1 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 100px;
+}
+.new-video{
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  
+}
+.new-video div{
+  width: 150px;
+  height: 150px;
+}
+video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
