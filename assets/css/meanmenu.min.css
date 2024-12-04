@@ -10,7 +10,7 @@
 .mean-container a.meanmenu-reveal {
   width: 22px;
   height: 22px;
-  padding: 18px;
+  padding: 36px;
   top: 0;
   right: 0;
   cursor: pointer;
@@ -33,7 +33,7 @@
 }
 .mean-container .mean-nav {
   float: left;
-  width: 100%;
+  /* width: 100%; */
   background: #0c1923;
 }
 .mean-container .mean-nav ul {
