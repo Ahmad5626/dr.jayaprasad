@@ -152,7 +152,7 @@
   border-radius: 0;
 }
 .mean-container a.meanmenu-reveal span {
-  background: #fff;
+  background: black !important;
 }
 .mobile-menu-area {
   background: #fff none repeat scroll 0 0;
