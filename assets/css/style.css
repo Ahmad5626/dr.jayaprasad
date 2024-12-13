@@ -56,6 +56,7 @@ html{
   z-index: 2;
   position: relative;
   padding: 20px 10px 20px;
+  background-color: #B3EBF2;
 }
 
 .sticky {
@@ -65,7 +66,7 @@ html{
   top: 0;
   width: 100%;
   border-bottom: 1px solid rgba(255, 255, 255, 0.14901960784313725);
-  background: var(--primary-color) !important;
+  background: #B3EBF2 !important;
   transition: 0.5s !important;
   z-index: 922;
   -webkit-animation: 300ms running fadeInDown;
@@ -357,7 +358,7 @@ ul.sub-menu li:hover a span {
 <!-- ============================================================== -->*/
 
 .hero-section {
-  background: url(../images/slider/hero-bg.png);
+  background: #C9FDF1;
   background-position: center;
   background-repeat: no-repeat;
   height: 790px;
@@ -379,7 +380,7 @@ ul.sub-menu li:hover a span {
   margin: 0px ;
   padding:0px;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
   margin: 0;
   font-weight: 800;
   position: relative;
@@ -398,7 +399,8 @@ span.team-mbr {
   padding: 15px 30px;
   border-radius: 40px;
   background: #fff;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #B6F1D1;
+  border:3px solid #19747D;
   display: inline-block;
   font-size: 18px;
   font-weight: 600;
@@ -429,7 +431,7 @@ span.team-mbr img {
   font-size: 24px;
   font-weight: 600;
   text-align: left;
-  color: #fff;
+  color: black;
   margin: 0;
 }
 
@@ -693,7 +695,8 @@ span.wood-animation img {
 <!-- ============================================================== -->*/
 
 .counter-serction {
-  background: url(../images/slider/counter-bg.png);
+  /* background: url(../images/slider/counter-bg.png); */
+  background:#19747D;
   background-repeat: no-repeat;
   background-position: center;
   padding: 70px 0 50px;
@@ -740,7 +743,7 @@ span.wood-animation img {
 .odometer-wrapper.counter-box-title h1 {
   font-size: 50px;
   font-weight: 700;
-  color: #fff;
+  color: #F2E055;
   display: inline-block;
   margin: 0;
 }
@@ -1327,7 +1330,7 @@ span.list-pd {
 .mediic-btn a {
   padding: 16px 35px;
   font-size: 18px;
-  color: #fff;
+  color: black;
   display: inline-block;
   font-weight: 500;
   font-family: "Albert Sans";
@@ -1336,8 +1339,8 @@ span.list-pd {
   z-index: 1;
   transition: 0.5s;
   overflow: hidden;
-  border: 1px solid #2f737d;
-  background-color: #fff;
+  /* border: 1px solid #2f737d; */
+  background-color: #F2E055 !important;
 }
 
 .mediic-btn a:after {
@@ -1352,7 +1355,7 @@ span.list-pd {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #2f737d;
+  
   /* background-image: url(../images/resource/mask-btn2.png);
   -webkit-mask: url(../images/resource/mask-btn2.png);
   mask: url(../images/resource/mask-btn2.png); */
@@ -5490,7 +5493,7 @@ span.flaticon-multiply i {
     animation-name: slideInDown
 }
 .new-class-add{
-  border: 3px solid white;
+  border: 3px solid #F2E055;
     border-radius: 100px;
 }
 .new-h1-set{
@@ -5527,6 +5530,7 @@ video{
 }
 .res-logo{
 width: 180px;
+margin-top: 10px;
 
 }
 .mobile-menu{
